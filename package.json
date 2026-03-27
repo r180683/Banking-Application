@@ -47,7 +47,6 @@
     "date-fns": "4.1.0",
     "embla-carousel-react": "8.5.1",
     "encoding": "^0.1.13",
-    "face-api.js": "^0.20.0",
     "geist": "latest",
     "input-otp": "1.4.1",
     "jose": "^6.1.0",
